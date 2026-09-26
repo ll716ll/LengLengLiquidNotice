@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0"><dict>
-</dict></plist>
+Package: com.lengleng.liquidnotice
+Name: LengLeng Liquid Notice
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Liquid Glass style message notification for WeChat
+Maintainer: LengLeng
+Author: LengLeng
+Section: Tweaks
+Depends: firmware (>= 15.0)
